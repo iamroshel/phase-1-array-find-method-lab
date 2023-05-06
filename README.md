@@ -1,4 +1,4 @@
-# Using the Array Find Method
+# Using the Array Find Method c
 
 ## Learning Goals
 
